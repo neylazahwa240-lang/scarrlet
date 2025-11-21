@@ -48,7 +48,7 @@ export function LoginForm({
       <Card className="w-full max-w-md shadow-lg border-pink-200">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl font-semibold text-pink-600">
-            Welcome Back 
+            Welcome Back !!
           </CardTitle>
           <CardDescription className="text-gray-500">
             Masuk untuk melanjutkan ke akun Scarlett kamu
